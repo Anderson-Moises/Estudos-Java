@@ -1,0 +1,29 @@
+# Java - arquivos compilados
+*.class
+
+# Diretórios de compilação
+bin/
+out/
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/.nb-gradle/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
